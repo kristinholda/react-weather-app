@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import "./styles.css";
 import Header from "./Header";
 import Current from "./Current";
 import Forecast from "./Forecast";
