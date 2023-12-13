@@ -18,13 +18,7 @@ export default function Current() {
         <h3 id="temperature">{weatherData.temperature}</h3>
         <ul>
           <li className="weather-units" id="units">
-            <a href="#" id="fahrenheit-link" class="active" rel="noreferrer">
-              °F
-            </a>
-            |
-            <a href="#" id="celsius-link">
-              °C
-            </a>
+            °F | °C
           </li>
         </ul>
       </div>
