@@ -89,7 +89,6 @@ a {
 
 .current-weather-temp,
 .weather-conditions {
-  justify-content: start;
   display: flex;
   align-items: center;
 }
