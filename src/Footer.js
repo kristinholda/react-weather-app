@@ -5,7 +5,7 @@ export default function Current() {
     <div>
       <small class="source">
         <a
-          href="https://github.com/kristinholda/weather-react"
+          href="https://github.com/kristinholda/react-weather-app"
           target="_blank"
           rel="noreferrer"
         >
